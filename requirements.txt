@@ -1,0 +1,7 @@
+colorama==0.4.5
+console-progressbar==1.1.2
+platformdirs==2.5.1
+progressbar==2.5
+rich==12.6.0
+virtualenv==20.13.3
+
